@@ -1,1 +1,1 @@
-Tes PKL
+.editorconfig.
